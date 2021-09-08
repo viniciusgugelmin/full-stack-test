@@ -6,7 +6,7 @@
   <h3 align="center">full-stack-test</h3>
 
   <p align="center">
-    Front-end test
+    Full-stack test
     <br />
     <a href="https://github.com/viniciusgugelmin/full-stack-test"><strong>Explore the docs »</strong></a>
     <!--
